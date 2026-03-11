@@ -20,13 +20,13 @@ and also includes a top-level `requirements.txt`.
 
 ---
 
-## Cosine similarity-based methods
+## Cosine similarity-based method
 
 These methods represent each user with behavioral distribution features including:
 
-- hourly activity distribution
-- device usage distribution
-- event-type distribution
+- Hourly activity distribution
+- Device usage distribution
+- Event-type distribution
 
 User similarity is then computed using **cosine similarity**.
 
@@ -39,7 +39,7 @@ attack_method/cos-based_method(1-to-1).py
 
 ---
 
-## PPRL-based methods
+## PPRL-based method
 
 These methods encode device-event-time behaviors into symbolic tokens and insert them into a **Counting Bloom Filter (CBF)**.
 
