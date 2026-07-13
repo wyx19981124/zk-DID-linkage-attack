@@ -98,6 +98,7 @@ Each dataset contains IoT interaction logs including fields such as:
 Please select the CSV file according to your experimental setting.
 
 Additionally, the repository includes a `CASAS_dataset/` directory, which contains the original CASAS smart home datasets (`original_hh101.csv` and `original_hh102.csv`) as well as the standardized dataset (`Refined_dataset.csv`) used in our experiments.
+
 ---
 
 ## Installation
